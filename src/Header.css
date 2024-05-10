@@ -1,0 +1,11 @@
+
+.Header{
+    display:flex;
+    justify-content:space-between;
+    padding:10px;
+}
+
+.headerMenu a{
+   margin-right:20px;
+   text-decoration:none;
+}
